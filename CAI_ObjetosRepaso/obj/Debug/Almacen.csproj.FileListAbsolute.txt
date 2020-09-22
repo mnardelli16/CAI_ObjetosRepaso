@@ -5,3 +5,10 @@ C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_ObjetosRepaso\CAI_ObjetosRepaso\ob
 C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_ObjetosRepaso\CAI_ObjetosRepaso\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
 C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_ObjetosRepaso\CAI_ObjetosRepaso\obj\Debug\CAI_ObjetosRepaso.exe
 C:\Users\mnardelli\Desktop\Documentos\CAI\CAI_ObjetosRepaso\CAI_ObjetosRepaso\obj\Debug\CAI_ObjetosRepaso.pdb
+C:\Users\MNARDELLI\Documents\GitHub\CAI_ObjetosRepaso\CAI_ObjetosRepaso\bin\Debug\CAI_ObjetosRepaso.exe.config
+C:\Users\MNARDELLI\Documents\GitHub\CAI_ObjetosRepaso\CAI_ObjetosRepaso\bin\Debug\CAI_ObjetosRepaso.exe
+C:\Users\MNARDELLI\Documents\GitHub\CAI_ObjetosRepaso\CAI_ObjetosRepaso\bin\Debug\CAI_ObjetosRepaso.pdb
+C:\Users\MNARDELLI\Documents\GitHub\CAI_ObjetosRepaso\CAI_ObjetosRepaso\obj\Debug\Almacen.csprojAssemblyReference.cache
+C:\Users\MNARDELLI\Documents\GitHub\CAI_ObjetosRepaso\CAI_ObjetosRepaso\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\MNARDELLI\Documents\GitHub\CAI_ObjetosRepaso\CAI_ObjetosRepaso\obj\Debug\CAI_ObjetosRepaso.exe
+C:\Users\MNARDELLI\Documents\GitHub\CAI_ObjetosRepaso\CAI_ObjetosRepaso\obj\Debug\CAI_ObjetosRepaso.pdb
